@@ -1,4 +1,4 @@
-import 'package:collection/collection.dart';
+import 'package:hashcodes/hashcodes.dart';
 import 'package:flutter/cupertino.dart';
 
 import 'scheme_data.dart';
